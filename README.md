@@ -1,4 +1,7 @@
-This project is part of a data scientist internship with Omdena's Kenya Chapter.
+This overview contains a project for Omdena's Kenya Chapter.
+
+I was a machine learning engineer intern for this chapter.
+The notebooks in this overview are not all my own, rather, this repository serves as a bank of information for the project.
 
 The purpose of this project is to create a crop disease detector for the most popularly grown crops in Kenya.
 
